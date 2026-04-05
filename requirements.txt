@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision
+transformers>=4.20
+datasets
+Pillow
+flask
+tqdm
+numpy
+spacy
+python-dotenv
